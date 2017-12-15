@@ -1,0 +1,8 @@
+
+
+## Creating a new react app
+1. create-react-app [name]
+2. cd [name]
+3. npm install react-bootstrap --save
+4.  npm install
+  npm start
